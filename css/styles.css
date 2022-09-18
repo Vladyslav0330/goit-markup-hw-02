@@ -78,7 +78,7 @@ body {
 /* Hat */
 
 .hat {
-  background-color: var(--background-hat)
+  background-color: var(--background-hat-footer)
 }
 
 .hat-title {
